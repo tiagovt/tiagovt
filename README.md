@@ -31,8 +31,6 @@ Arquitetura completa com:
 * Event-driven com Kafka
 * Observabilidade com OpenTelemetry + Jaeger
 
-👉 [Ver projeto](link-aqui)
-
 ---
 
 ### 🔹 Trading Bot Binance
@@ -43,11 +41,9 @@ Bot automatizado que:
 * Recompra baseado em preço
 * Otimiza ganho em moeda real
 
-👉 [Ver projeto](link-aqui)
-
 ---
 
 ## 📫 Contato
 
-* LinkedIn: (coloca aqui)
-* Email: (opcional)
+* LinkedIn:[ (coloca aqui)](https://www.linkedin.com/in/tiago-augusto-afonso-vaz-teixeira-084a071b/)
+
