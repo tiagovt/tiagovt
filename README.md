@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👨‍💻 Tiago Vaz Teixeira
 
-<!--
-**tiagovt/tiagovt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer | Java | Spring Boot | AWS | Kubernetes
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Engenheiro de software com experiência em:
+
+* Arquitetura de microsserviços
+* Sistemas distribuídos
+* Observabilidade (Grafana, Prometheus, Loki, Jaeger)
+* Cloud AWS (EKS, SQS, etc)
+
+## 🛠️ Tech Stack
+
+* Java 14 / 22, Kotlin
+* Spring Boot (Security, Data, Cloud)
+* Kafka / RabbitMQ / SQS
+* Kubernetes / Docker
+* AWS (EKS, SQS, EFS)
+* OpenTelemetry / Grafana Stack
+
+## 📌 Projetos em destaque
+
+### 🔹 Microservices Platform (Spring Boot + Kubernetes)
+
+Arquitetura completa com:
+
+* API Gateway
+* Auth Service
+* Event-driven com Kafka
+* Observabilidade com OpenTelemetry + Jaeger
+
+👉 [Ver projeto](link-aqui)
+
+---
+
+### 🔹 Trading Bot Binance
+
+Bot automatizado que:
+
+* Compra e vende com estratégia de lucro
+* Recompra baseado em preço
+* Otimiza ganho em moeda real
+
+👉 [Ver projeto](link-aqui)
+
+---
+
+## 📫 Contato
+
+* LinkedIn: (coloca aqui)
+* Email: (opcional)
