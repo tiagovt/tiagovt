@@ -45,5 +45,5 @@ Bot automatizado que:
 
 ## 📫 Contato
 
-* LinkedIn:[ (Tiago Augusto Afonso Vaz Teixeira)](https://www.linkedin.com/in/tiago-augusto-afonso-vaz-teixeira-084a071b/)
+* LinkedIn:[ Tiago Augusto Afonso Vaz Teixeira](https://www.linkedin.com/in/tiago-augusto-afonso-vaz-teixeira-084a071b/)
 
