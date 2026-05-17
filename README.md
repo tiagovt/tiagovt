@@ -1,4 +1,4 @@
-# 👨‍💻 Tiago Vaz Teixeira
+# 👨‍💻 Tiago Augusto Afonso Vaz Teixeira
 
 Senior Software Engineer | Java | Spring Boot | AWS | Kubernetes
 
