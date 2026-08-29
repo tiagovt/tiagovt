@@ -33,16 +33,6 @@ Arquitetura completa com:
 
 ---
 
-### 🔹 Trading Bot Binance
-
-Bot automatizado que:
-
-* Compra e vende com estratégia de lucro
-* Recompra baseado em preço
-* Otimiza ganho em moeda real
-
----
-
 ## 📫 Contato
 
 * LinkedIn:[ Tiago Augusto Afonso Vaz Teixeira](https://www.linkedin.com/in/tiago-augusto-afonso-vaz-teixeira-084a071b/)
